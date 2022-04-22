@@ -1,0 +1,21 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/farmer.js",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "d739429337@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "grunt-screeps": "^1.5.0",
+    "lodash": "^4.17.21"
+  }
+}
